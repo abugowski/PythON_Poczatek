@@ -1,0 +1,2 @@
+
+print("Pakiet calculations")
